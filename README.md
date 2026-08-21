@@ -41,3 +41,8 @@ All solutions are written in **Python** using the **re** module, and the pattern
 | **Problem** | **Solution** |
 |------------|-------------|
 | [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem) | [Python](Introduction/Matching_Specific_String.py) |
+| [Matching Digits & Non-Digit Characters](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem) | [Python](Introduction/Matching_Digits_&_Non-Digit_Characters.py) |
+| [Matching Whitespace & Non-Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem) | [Python](Introduction/Matching_Whitespace_&_Non-Whitespace_Character.py) |
+| [Matching Word & Non-Word Character](https://www.hackerrank.com/challenges/matching-word-non-word/problem) | [Python](Introduction/Matching_Word_&_Non-Word_Character.py) |
+| [Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem) | [Python](Introduction/Matching_Start_&_End.py) |
+| [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem) | [Python](Introduction/Matching_Anything_But_a_Newline.py) |
