@@ -1,15 +1,7 @@
 <p align="center">
-    <a href="https://www.hackerrank.com/domains/regex">
-        <img height="60" src="https://vjudge.net/static/bundle/827e9a41ed1deb5922b5.png" alt="HackerRank Logo">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://regexone.com/">
-        <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/6/63/OOjs_UI_icon_regular-expression-progressive.svg" alt="Regular Expression Logo">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.python.org/">
-        <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo">
-    </a>
+    <a href="https://www.hackerrank.com/domains/regex"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+    <a href="https://regexone.com/"><img src="https://img.shields.io/badge/RegEx-%28.*%29-36C?style=for-the-badge" alt="RegEx"></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 </p>
 
 <br>
